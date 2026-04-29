@@ -7,9 +7,6 @@
 <div align="center">
   <h3>👋 Salut, moi c'est Ethan — 21 ans</h3>
   <p><i>Développeur français. Je transforme le café en code et les idées en sites web.</i></p>
-  <a href="https://portfolio2025-rose-seven.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0f2744?style=for-the-badge&logo=vercel&logoColor=5b8dee" />
-  </a>
 </div>
 
 <br/>
