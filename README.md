@@ -48,8 +48,7 @@ const ethan = {
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SheiEthan&show_icons=true&theme=transparent&hide_border=true&title_color=5b8dee&text_color=ffffff&icon_color=5b8dee&bg_color=0d1117&locale=fr" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheiEthan&layout=compact&theme=transparent&hide_border=true&title_color=5b8dee&text_color=ffffff&bg_color=0d1117&locale=fr" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheiEthan&layout=compact&theme=transparent&hide_border=true&title_color=5b8dee&text_color=ffffff&bg_color=0d1117&locale=fr&card_width=450" />
 </div>
 
 <br/>
